@@ -1,6 +1,6 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: 'static-website-action'
+description: 'A Github action triggered by the static website push and combined with continuous actions.'
+author: 'Eason Yang'
 inputs:
   milliseconds: # change this
     required: true
